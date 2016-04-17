@@ -1,0 +1,15 @@
+Change FPS
+
+
+GUI
+==============
+scrollbar
+waveform
+add subline
+delete subline
+show start time of subline
+show end time of subline
+show duration of subline
+modify times of subline
+show cps
+show RS
